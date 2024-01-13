@@ -1,0 +1,38 @@
+.stars{
+    display: flex;
+}
+.starss img{
+    width: 30px;
+   
+
+}
+.starss{
+    padding-top: 8px;
+}
+.star{
+    padding: 0px 8px;
+    padding-bottom: 3px;
+}
+.recp{
+    padding-top: 10px;
+}
+button{
+    padding: 12px 35px;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.btn{
+    padding-bottom: 30px;
+}
+
+.mealpic img{
+    width: 100px;
+}
+.mealpic {
+    padding: 3px 8px;
+}
+.mealbg{
+    display: flex;
+}
